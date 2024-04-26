@@ -29,6 +29,7 @@ To set up this project, you will need Python and the following libraries:
 
 ```bash
 pip install deepface
+```
 
 
 ## Usage
