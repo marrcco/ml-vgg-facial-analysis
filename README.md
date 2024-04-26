@@ -29,3 +29,25 @@ To set up this project, you will need Python and the following libraries:
 
 ```bash
 pip install deepface
+
+
+## Usage
+
+Below is a quick guide on how to use this project:
+
+1. Prepare your images in the accepted formats.
+2. Run the analysis script provided in the repository.
+3. Check the output folder for the annotated images and emotion results DataFrame.
+
+## Contributing
+
+Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+## Acknowledgments
+
+- VGG-Face-Model developers for their pre-trained model.
+- DeepFace library maintainers for providing a robust framework for facial analysis.
